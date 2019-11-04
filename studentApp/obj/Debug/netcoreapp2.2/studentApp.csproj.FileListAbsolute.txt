@@ -1,0 +1,11 @@
+C:\Users\A01174842\source\repos\studentApp\studentApp\bin\Debug\netcoreapp2.2\studentApp.deps.json
+C:\Users\A01174842\source\repos\studentApp\studentApp\bin\Debug\netcoreapp2.2\studentApp.runtimeconfig.json
+C:\Users\A01174842\source\repos\studentApp\studentApp\bin\Debug\netcoreapp2.2\studentApp.runtimeconfig.dev.json
+C:\Users\A01174842\source\repos\studentApp\studentApp\bin\Debug\netcoreapp2.2\studentApp.dll
+C:\Users\A01174842\source\repos\studentApp\studentApp\bin\Debug\netcoreapp2.2\studentApp.pdb
+C:\Users\A01174842\source\repos\studentApp\studentApp\obj\Debug\netcoreapp2.2\studentApp.csprojAssemblyReference.cache
+C:\Users\A01174842\source\repos\studentApp\studentApp\obj\Debug\netcoreapp2.2\studentApp.csproj.CoreCompileInputs.cache
+C:\Users\A01174842\source\repos\studentApp\studentApp\obj\Debug\netcoreapp2.2\studentApp.AssemblyInfoInputs.cache
+C:\Users\A01174842\source\repos\studentApp\studentApp\obj\Debug\netcoreapp2.2\studentApp.AssemblyInfo.cs
+C:\Users\A01174842\source\repos\studentApp\studentApp\obj\Debug\netcoreapp2.2\studentApp.dll
+C:\Users\A01174842\source\repos\studentApp\studentApp\obj\Debug\netcoreapp2.2\studentApp.pdb
