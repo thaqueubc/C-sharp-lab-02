@@ -9,3 +9,24 @@ C:\Users\A01174842\source\repos\studentApp\studentApp\obj\Debug\netcoreapp2.2\st
 C:\Users\A01174842\source\repos\studentApp\studentApp\obj\Debug\netcoreapp2.2\studentApp.AssemblyInfo.cs
 C:\Users\A01174842\source\repos\studentApp\studentApp\obj\Debug\netcoreapp2.2\studentApp.dll
 C:\Users\A01174842\source\repos\studentApp\studentApp\obj\Debug\netcoreapp2.2\studentApp.pdb
+D:\Tasnuva\C-sharp-lab-02\studentApp\obj\Debug\netcoreapp2.2\studentApp.csprojAssemblyReference.cache
+D:\Tasnuva\C-sharp-lab-02\studentApp\obj\Debug\netcoreapp2.2\studentApp.csproj.CoreCompileInputs.cache
+D:\Tasnuva\C-sharp-lab-02\studentApp\obj\Debug\netcoreapp2.2\studentApp.AssemblyInfoInputs.cache
+D:\Tasnuva\C-sharp-lab-02\studentApp\obj\Debug\netcoreapp2.2\studentApp.AssemblyInfo.cs
+D:\Tasnuva\C-sharp-lab-02\studentApp\obj\Debug\netcoreapp2.2\studentApp.dll
+D:\Tasnuva\C-sharp-lab-02\studentApp\obj\Debug\netcoreapp2.2\studentApp.pdb
+D:\Tasnuva\C-sharp-lab-02\studentApp\bin\Debug\netcoreapp2.2\studentApp.deps.json
+D:\Tasnuva\C-sharp-lab-02\studentApp\bin\Debug\netcoreapp2.2\studentApp.runtimeconfig.json
+D:\Tasnuva\C-sharp-lab-02\studentApp\bin\Debug\netcoreapp2.2\studentApp.runtimeconfig.dev.json
+D:\Tasnuva\C-sharp-lab-02\studentApp\bin\Debug\netcoreapp2.2\studentApp.dll
+D:\Tasnuva\C-sharp-lab-02\studentApp\bin\Debug\netcoreapp2.2\studentApp.pdb
+C:\Users\Tasnuva Haque\Dropbox\SSD BCIT\C#\C-sharp-lab-02\studentApp\bin\Debug\netcoreapp2.2\studentApp.deps.json
+C:\Users\Tasnuva Haque\Dropbox\SSD BCIT\C#\C-sharp-lab-02\studentApp\bin\Debug\netcoreapp2.2\studentApp.runtimeconfig.json
+C:\Users\Tasnuva Haque\Dropbox\SSD BCIT\C#\C-sharp-lab-02\studentApp\bin\Debug\netcoreapp2.2\studentApp.runtimeconfig.dev.json
+C:\Users\Tasnuva Haque\Dropbox\SSD BCIT\C#\C-sharp-lab-02\studentApp\bin\Debug\netcoreapp2.2\studentApp.dll
+C:\Users\Tasnuva Haque\Dropbox\SSD BCIT\C#\C-sharp-lab-02\studentApp\bin\Debug\netcoreapp2.2\studentApp.pdb
+C:\Users\Tasnuva Haque\Dropbox\SSD BCIT\C#\C-sharp-lab-02\studentApp\obj\Debug\netcoreapp2.2\studentApp.csprojAssemblyReference.cache
+C:\Users\Tasnuva Haque\Dropbox\SSD BCIT\C#\C-sharp-lab-02\studentApp\obj\Debug\netcoreapp2.2\studentApp.AssemblyInfoInputs.cache
+C:\Users\Tasnuva Haque\Dropbox\SSD BCIT\C#\C-sharp-lab-02\studentApp\obj\Debug\netcoreapp2.2\studentApp.AssemblyInfo.cs
+C:\Users\Tasnuva Haque\Dropbox\SSD BCIT\C#\C-sharp-lab-02\studentApp\obj\Debug\netcoreapp2.2\studentApp.dll
+C:\Users\Tasnuva Haque\Dropbox\SSD BCIT\C#\C-sharp-lab-02\studentApp\obj\Debug\netcoreapp2.2\studentApp.pdb

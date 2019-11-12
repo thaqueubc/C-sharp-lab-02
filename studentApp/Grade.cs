@@ -6,11 +6,11 @@ namespace studentApp
 {
     class Grade
     {
-        Assignment assignment { get; set; }
+        public Assignment assignment { get; set; }
 
-        Student student { get; set; }
+        public Student student { get; set; }
 
-        int StudentTotal { get; set; }
+        public int StudentTotal { get; set; }
 
         public Grade() { }
 
@@ -19,7 +19,6 @@ namespace studentApp
             this.assignment = assignment;
             this.student = student;
             this.StudentTotal = StudentTotal;
-
         }
     }
 }

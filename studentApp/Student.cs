@@ -9,7 +9,7 @@ namespace studentApp
         public string fName { get; set; }
        public string lName { get; set; }
 
-        string student_id { get; set; }
+        public string student_id { get; set; }
 
         public Student() { }
 

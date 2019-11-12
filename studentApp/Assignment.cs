@@ -6,23 +6,35 @@ namespace studentApp
 {
     class Assignment
     {
-        string AssignmentName { get; set; }
+        public string AssignmentName { get; set; }
 
-        Section section { get; set; }
-        int total { get; set; }
+        public Section section { get; set; }
+        public int total { get; set; }
 
-        public Assignment(String AssignmentName, int total, Section section)
+        public List<Grade> grades { get; set; }
+
+        public Assignment() { }
+
+        public Assignment(String AssignmentName)
+        {
+            this.AssignmentName = AssignmentName;
+        }
+        public void AssignmentDetails(String AssignmentName, int total, Section section, List<Grade> grades)
         {
             this.AssignmentName = AssignmentName;
             this.total = total;
             this.section = section;
+            this.grades = grades;
         }
 
         public void PrintAssignmentDetails()
         {
+           
+           //foreach (Grade g in grades) {
+           //     Console.WriteLine("Grade: " + g.StudentTotal);
+           //}
             
-           Console.WriteLine( this.AssignmentName + " "+ this.total + " " + this.section.SectionName + " " + this.section.SectionNumber );
-            
+          Console.WriteLine( this.AssignmentName + " "+ this.total + " " + this.section.SectionName + " " + this.section.SectionNumber );
 
         }
     }

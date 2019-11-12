@@ -1,0 +1,11 @@
+C:\Users\Tasnuva Haque\Dropbox\SSD BCIT\C#\C-sharp-lab-02\studentApp\bin\Debug\netcoreapp3.0\studentApp.exe
+C:\Users\Tasnuva Haque\Dropbox\SSD BCIT\C#\C-sharp-lab-02\studentApp\bin\Debug\netcoreapp3.0\studentApp.deps.json
+C:\Users\Tasnuva Haque\Dropbox\SSD BCIT\C#\C-sharp-lab-02\studentApp\bin\Debug\netcoreapp3.0\studentApp.runtimeconfig.json
+C:\Users\Tasnuva Haque\Dropbox\SSD BCIT\C#\C-sharp-lab-02\studentApp\bin\Debug\netcoreapp3.0\studentApp.runtimeconfig.dev.json
+C:\Users\Tasnuva Haque\Dropbox\SSD BCIT\C#\C-sharp-lab-02\studentApp\bin\Debug\netcoreapp3.0\studentApp.dll
+C:\Users\Tasnuva Haque\Dropbox\SSD BCIT\C#\C-sharp-lab-02\studentApp\bin\Debug\netcoreapp3.0\studentApp.pdb
+C:\Users\Tasnuva Haque\Dropbox\SSD BCIT\C#\C-sharp-lab-02\studentApp\obj\Debug\netcoreapp3.0\studentApp.csprojAssemblyReference.cache
+C:\Users\Tasnuva Haque\Dropbox\SSD BCIT\C#\C-sharp-lab-02\studentApp\obj\Debug\netcoreapp3.0\studentApp.AssemblyInfoInputs.cache
+C:\Users\Tasnuva Haque\Dropbox\SSD BCIT\C#\C-sharp-lab-02\studentApp\obj\Debug\netcoreapp3.0\studentApp.AssemblyInfo.cs
+C:\Users\Tasnuva Haque\Dropbox\SSD BCIT\C#\C-sharp-lab-02\studentApp\obj\Debug\netcoreapp3.0\studentApp.dll
+C:\Users\Tasnuva Haque\Dropbox\SSD BCIT\C#\C-sharp-lab-02\studentApp\obj\Debug\netcoreapp3.0\studentApp.pdb
