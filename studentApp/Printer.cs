@@ -8,12 +8,12 @@ namespace studentApp
     {
        public void PrintStudentDetails(Section section)
         {
-            Console.WriteLine("The list of Student is : ");
+            Console.WriteLine("The list of Student is :\n ");
             foreach (Student stud in section.Students)
             {
-                Console.WriteLine( "Name :" + stud.fName +" " + stud.lName + "ID: "+ stud.student_id);
+                Console.WriteLine( " Name :" + stud.fName +" " + stud.lName + " ID: "+ stud.student_id);
             }
-            Console.WriteLine("\n\n");
+            Console.WriteLine("\n");
         }
 
         //"Lab-02", 20, section
